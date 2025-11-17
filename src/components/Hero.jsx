@@ -34,7 +34,8 @@ export default function Hero() {
                 </div>
             </div>
             <div className="hero-right">
-                <Image className='hero-img' src={hero} alt="Emre" />
+                <Image  className='hero-img' src="/images/emre.jpg" alt="Emre"
+                  width={420} height={420} />                       
             </div>
 
 
