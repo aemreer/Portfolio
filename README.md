@@ -4,7 +4,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kişisel po
 Tasarım, tamamen React – Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
 ## 🚀 Demo
-🔗 Canlı Siteyi Görüntüle
+🔗 [Canlı Siteyi Görüntüle](https://emreer.netlify.app/)
 
 ## 🛠️ Kullanılan Teknolojiler
 
