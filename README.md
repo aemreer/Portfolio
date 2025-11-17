@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+💼 Emre Er - Kişisel Portföy Sitesi
 
-## Getting Started
+Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kişisel portföy websitesidir.
+Tasarım, tamamen React – Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
-First, run the development server:
+🚀 Demo
 
-```bash
+🔗 Canlı Siteyi Görüntüle
+
+(Netlify linkini burada paylaşabilirsin.)
+
+🛠️ Kullanılan Teknolojiler
+
+Next.js 14
+
+React
+
+CSS (Responsive tasarım)
+
+React Icons
+
+Google Maps Embed API
+
+Netlify (Deployment)
+
+Google Fonts (Michroma & Outfit)
+
+📦 Kurulum
+
+Projeyi kendi bilgisayarında çalıştırmak için:
+
+# 1. Repo’yu klonla
+git clone https://github.com/aemreer/portfolio.git
+
+# 2. Proje klasörüne gir
+cd portfolio
+
+# 3. Bağımlılıkları yükle
+npm install
+
+# 4. Geliştirme sunucusunu başlat
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📁 Özellikler
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🌟 Modern ve şık tasarım
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📱 Tamamen responsive yapı
 
-## Learn More
+🎯 Hero alanından Contact bölümüne smooth scroll
 
-To learn more about Next.js, take a look at the following resources:
+🧭 Sticky navbar + mobil hamburger menü
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🗂️ Projeler sayfası
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📡 Sosyal medya bağlantıları
 
-## Deploy on Vercel
+🗺️ Google Maps ile Ankara konumu
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🖼️ Özel arkaplan görseli
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 Aktif link vurgulama
+
+🧩 Modüler, component bazlı yapı
+
+📸 Ekran Görüntüsü (İsteğe Bağlı)
+
+Dilersen buraya bir görsel ekleyebilirsin:
+
+![Portfolio Preview](public/images/preview.png)
+
+📞 İletişim
+
+Ahmet Emre Er
+🔗 GitHub: https://github.com/aemreer
+
+🔗 LinkedIn: https://www.linkedin.com/in/aemreer/
+
+📧 Mail: ahmetemreer32@gmail.com
