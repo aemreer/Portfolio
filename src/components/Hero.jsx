@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import './Hero.css'
-import hero from '../../public/images/emre.jpg'
+
 
 export default function Hero() {
 
