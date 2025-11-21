@@ -1,14 +1,14 @@
 # 💼 Emre Er - Kişisel Portföy Sitesi
 
-Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kişisel portföy websitesidir.
-Tasarım, tamamen React – Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
+Bu proje, modern web teknolojileri kullanılarak geliştirdiğim bir kişisel portföy websitesidir.
+Tasarım, React – Next.js ekosistemine uygun biçimde, sade, modern ve responsive bir yapı ile hazırlanmıştır.
 
 ## 🚀 Demo
 🔗 [Canlı Siteyi Görüntüle](https://emreer.netlify.app/)
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- Next.js 14  
+- Next.js   
 - React 
 - CSS
 - React Icons  
