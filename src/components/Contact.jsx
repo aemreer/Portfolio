@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <section className="contact container">
             <h1>
-                Contact
+                İletişim
             </h1>
             <p className="contact-section-subtitle">
                 Benimle iletişime geçebilir veya sosyal medyada takip edebilirsin
